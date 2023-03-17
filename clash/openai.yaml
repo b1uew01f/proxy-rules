@@ -1,0 +1,4 @@
+payload:
+    # > OpenAI
+  - PROCESS-NAME,com.openai.ai
+  - DOMAIN-SUFFIX,openai.com
